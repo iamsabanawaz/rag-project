@@ -76,5 +76,3 @@ python query.py
 ```
 
 Type `quit` to exit.
-
-## Example
