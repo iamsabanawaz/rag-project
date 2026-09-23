@@ -1,0 +1,10 @@
+My cat's name is Pixel and she is 4 years old.
+My favorite programming language is Python.
+I started learning to code in September 2026.
+My project mentor's name is Claude.
+I live in Berlin and I am learning to become a GenAI engineer.
+My first coding project was a command-line chatbot built with the Groq API.
+I use a MacBook Air for development.
+My chatbot project is hosted on GitHub under the username iamsabanawaz.
+I am currently building a RAG (Retrieval-Augmented Generation) project as my second project.
+My favorite text editor is VS Code.
